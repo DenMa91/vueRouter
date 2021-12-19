@@ -1,0 +1,11 @@
+{
+    "jobs": [
+        {"title": "UX Designer", "id":1, "details":"lorem 1"},
+        {"title": "WEB Developer", "id":2, "details":"lorem 2"},
+        {"title": "VUE Developer", "id":3, "details":"lorem 3"},
+        {"title": "REACT Developer", "id":4, "details":"lorem 4"},
+        {"title": "PHP Developer", "id":5, "details":"lorem 5"},
+        {"title": "ANGULAR Developer", "id":6, "details":"lorem 6"},
+        {"title": "SCRUM Master", "id":7, "details":"lorem 7"}
+    ]
+}
