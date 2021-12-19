@@ -6,6 +6,9 @@
         {"title": "REACT Developer", "id":4, "details":"lorem 4"},
         {"title": "PHP Developer", "id":5, "details":"lorem 5"},
         {"title": "ANGULAR Developer", "id":6, "details":"lorem 6"},
-        {"title": "SCRUM Master", "id":7, "details":"lorem 7"}
+        {"title": "SCRUM Master", "id":7, "details":"lorem 7"},
+        {"title": "JUNIOR Developer", "id":8, "details":"lorem 8"},
+        {"title": "FULLSTACK Developer", "id":9, "details":"lorem 9"}
+        
     ]
 }
